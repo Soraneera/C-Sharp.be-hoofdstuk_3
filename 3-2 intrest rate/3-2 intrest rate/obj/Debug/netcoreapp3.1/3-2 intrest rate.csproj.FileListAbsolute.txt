@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.exe
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.deps.json
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.runtimeconfig.json
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.runtimeconfig.dev.json
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.dll
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\bin\Debug\netcoreapp3.1\3-2 intrest rate.pdb
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.AssemblyInfo.cs
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.dll
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.pdb
+C:\Users\domin\source\repos\3-2 intrest rate\3-2 intrest rate\obj\Debug\netcoreapp3.1\3-2 intrest rate.genruntimeconfig.cache
