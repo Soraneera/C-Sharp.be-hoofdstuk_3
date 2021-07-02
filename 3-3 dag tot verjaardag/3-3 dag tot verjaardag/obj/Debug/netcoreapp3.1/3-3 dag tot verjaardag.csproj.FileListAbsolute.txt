@@ -1,0 +1,13 @@
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.exe
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.deps.json
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.runtimeconfig.json
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.runtimeconfig.dev.json
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.dll
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\bin\Debug\netcoreapp3.1\3-3 dag tot verjaardag.pdb
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.csproj.AssemblyReference.cache
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.AssemblyInfo.cs
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.dll
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.pdb
+C:\Users\danny\source\repos\3-3 dag tot verjaardag\3-3 dag tot verjaardag\obj\Debug\netcoreapp3.1\3-3 dag tot verjaardag.genruntimeconfig.cache
